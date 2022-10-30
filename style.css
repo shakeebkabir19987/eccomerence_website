@@ -1,0 +1,418 @@
+body{
+   
+}
+.navbar{
+    background-color: rgb(246, 244, 244);
+    display: flex;
+    list-style: none;
+    font-weight: bold;
+    /* border: 2px solid black; */
+    margin-top: -8px;
+    margin-right: -8px;
+    margin-left: -8px;
+    height: 50px;
+}
+.cara
+{
+    margin-right: 700px;
+    padding: 10px 0px;
+}
+a:hover {
+     border-bottom: 2px solid green;
+     padding-bottom: 3px;
+     color: green;
+    }
+.home{
+    margin-right: 50px;
+    padding: 10px 0px;
+    color: green;
+    
+    
+}
+.shop{
+    margin-right: 50px;
+    padding: 10px 0px;
+}
+.blog{
+    margin-right: 50px;
+    padding: 10px 0px;
+}
+.about{
+    margin-right: 50px;
+    padding: 10px 0px;
+}
+.contact{
+    margin-right: 50px;
+    padding: 10px 0px;
+}
+.cart{
+    margin-right: 50px;
+    padding: 10px 0px;
+}
+
+/* banner */
+.banner{
+    background-color: rgb(239, 237, 237);
+    border: 2px solid rgb(245, 241, 241);
+    height: 800px;
+    margin-top: -17px;
+    margin-left: -7px;
+    margin-right: -7px;
+}
+.onep{
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: x-large;
+}
+.twop{
+    margin-left: 50px;
+    font-size:xx-large;
+    margin-top: -10px;
+}
+.threep{
+    margin-left: 50px;
+    font-size:xx-large;
+    color: rgba(6, 123, 17, 0.784);
+    margin-top: -25px;
+}
+.fourp{
+    margin-left: 50px;
+    margin-top: -25px;
+    color: grey;
+    font-weight: bold;
+}
+.btn{
+    margin-left: 100px;
+    font-weight: bold;
+    border-radius:10px 30px;
+    background-color: pink;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.pic{
+    height: 695px;
+    width: 400px;
+    margin-left: 940px;
+    margin-top: -397px;
+    border-top-left-radius: 1500px;
+    border-bottom-left-radius: 800px;
+    
+}
+
+/* cards */
+.card{
+    background-color: rgb(239, 237, 237);
+    /* border: 2px solid black; */
+    margin-left: -7px;
+    margin-right: -7px;
+    height: 400px;
+    margin-top: -50px;
+}
+/* card 1 */
+.card1{
+    background-color: white;
+    border: 2px solid rgb(228, 228, 228);
+    height: 200px;
+    width: 180px;
+    margin-left: 45px;
+    margin-top: 50px;
+}
+.card1 img{
+    margin-left:10px;
+    height: 150px;
+    width: 150px;
+}
+.card1 button{
+    text-decoration: none;
+    border: 2px solid  pink;
+}
+
+/* card 2 */
+
+
+.card2{
+    background-color: white;
+    border: 2px solid rgb(228, 228, 228);
+    height: 200px;
+    width: 180px;
+    margin-left: 260px;
+    margin-top: -200px;
+}
+.card2 img{
+    margin-top: 25px;
+    margin-left:10px;
+    height: 100px;
+    width: 150px;
+}
+.card2 button{
+    margin-top: 25px;
+    text-decoration: none;
+    border: 2px solid  pink;
+}
+
+/* card3 */
+
+.card3{
+    background-color: white;
+    border: 2px solid rgb(228, 228, 228);
+    height: 200px;
+    width: 180px;
+    margin-left: 480px;
+    margin-top: -202px;
+}
+.card3 img{
+    margin-left:10px;
+    height: 150px;
+    width: 150px;
+}
+.card3 button{
+    text-decoration: none;
+    border: 2px solid  pink;
+}
+
+
+/* card4 */
+
+.card4{
+    background-color: white;
+    border: 2px solid rgb(228, 228, 228);
+    height: 200px;
+    width: 180px;
+    margin-left: 700px;
+    margin-top: -202px;
+}
+.card4 img{
+    margin-left:10px;
+    height: 150px;
+    width: 150px;
+}
+.card4 button{
+    text-decoration: none;
+    border: 2px solid  pink;
+}
+
+/* card5 */
+
+.card5{
+    background-color: white;
+    border: 2px solid rgb(228, 228, 228);
+    height: 200px;
+    width: 180px;
+    margin-left: 920px;
+    margin-top: -202px;
+}
+.card5 img{
+    margin-top: 25px;
+    margin-left:10px;
+    height: 100px;
+    width: 150px;
+}
+.card5 button{
+    margin-top: 25px;
+    text-decoration: none;
+    border: 2px solid  pink;
+}
+
+
+/* card6 */
+
+.card6{
+    background-color: white;
+    border: 2px solid rgb(228, 228, 228);
+    height: 200px;
+    width: 180px;
+    margin-left: 1125px;
+    margin-top: -202px;
+}
+.card6 img{
+    margin-left:10px;
+    height: 150px;
+    width: 150px;
+}
+.card6 button{
+    text-decoration: none;
+    border: 2px solid  pink;
+}
+
+
+/* featured product */
+
+.h1{
+    margin-top: 65px;
+  margin-left: 530px;
+  font-size: xx-large;
+  
+}
+
+.h2{
+    margin-left: 535px;
+    color: grey;
+    margin-top: -30px;
+
+}
+
+/* item card */
+
+.item{
+
+    /* border: 2px solid black; */
+    background-color: rgb(240, 238, 238);
+    height: 900px;
+    margin-left: -7px;
+    margin-right: -7px;
+    margin-top: 40px;
+}
+
+/* item card1 */
+.item1{
+    border: 2px solid rgb(162, 159, 159);
+    height: 380px;
+    width: 250px;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 18px;
+}
+.checked {
+    color: orange;
+  }
+  
+/* item card2 */
+.item2{
+    border: 2px solid rgb(162, 159, 159);
+    height: 380px;
+    width: 250px;
+    margin-left: 400px;
+    margin-top: -380px;
+    border-radius: 20px;
+}
+/* item card3 */
+.item3{
+    border: 2px solid rgb(162, 159, 159);
+    height: 380px;
+    width: 250px;
+    margin-left: 700px;
+    margin-top: -380px;
+    border-radius: 20px;
+}
+
+/* item card4 */
+.item4{
+    border: 2px solid rgb(162, 159, 159);
+    height: 380px;
+    width: 250px;
+    margin-left: 1000px;
+    margin-top: -380px;
+    border-radius: 20px;
+}
+
+ /* last banner 1  */
+.lbanner{
+    height: 600px;
+    /* border: 2px solid black; */
+    background-color:rgb(241, 241, 241);
+    width: 1342px;
+    margin-left: -7px;
+    margin-top: -55px;
+}
+
+.lbanner1{
+    border: 2px solid rgb(238, 222, 222);
+    height: 250px;
+    width:630px;
+    /* background-color: red; */
+    margin-top: 50px;
+}
+
+#ban
+{
+    border: 2px solid rgb(238, 222, 222);
+    height: 250px;
+    width: 630px;
+    /* background-color: yellow; */
+    margin-left: 710px;
+    margin-top: -250px;
+}
+
+#banthree{
+    border: 2px solid rgb(238, 222, 222);
+    height: 240px;
+    width:400px;
+    /* background-color: green; */
+    margin-top: 50px;
+
+}
+
+#banfour{
+    border: 2px solid rgb(238, 222, 222);
+    height: 240px;
+    width: 400px;
+    /* background-color: brown; */
+    margin-left: 475px;
+    margin-top: -245px;
+
+}
+
+#banfive{
+    border: 2px solid rgb(238, 222, 222);
+    height: 240px;
+    width: 400px;
+    /* background-color: orchid; */
+    margin-left: 940px;
+    margin-top: -245px;
+
+}
+
+/* newsletter */
+
+.newsletter{
+    border: 2px solid rgb(19, 19, 67);
+    height: 200px;
+    margin-top: 0px;
+    width: 1342px;
+    margin-left: -7px;
+    
+}
+
+
+/* last postion start */
+.lastpor{
+
+    border: 2px solid rgb(241, 241, 241);
+    background-color:rgb(241, 241, 241);
+    width: 1342px;
+    margin-left: -7px;
+    height: 500px;
+}
+
+
+/* contact start */
+.contact9{
+    /* border: 2px solid red; */
+    margin-top: 100px;
+    background-color: rgb(241, 241, 241);
+    width: 100%;
+    height: 450px;
+  
+  }
+  
+  .outer{
+      /* border: 2px solid red; */
+      height: 400px;
+      width: 400px;
+      margin-left: 150px;
+      margin-top:48px;
+  }
+  
+   /* 2nd part */
+    .form{
+     /* border: 2px solid red; */
+     width: 500px;
+      height: 400px;
+      margin-left: 700px;
+      margin-top: -405px;
+    }
+  
+  /* contact ended */
+
+/* last postion start */
